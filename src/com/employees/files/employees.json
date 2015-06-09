@@ -1,0 +1,58 @@
+{
+    "codeMsg": 0,
+    "message": "OK",
+    "manager": {
+        "name": "Jeff",
+        "salary": 100000,
+        "subemployees": [
+            {
+                "name": "Dave",
+                "salary": 50000,
+                "subemployees": [
+                    {
+                        "name": "Rick",
+                        "salary": 25000
+                    },
+                    {
+                        "name": "Andy",
+                        "salary": 25000
+                    },
+                    {
+                        "name": "Suzanne",
+                        "salary": 25000
+                    },
+                    {
+                        "name": "Jason",
+                        "salary": 25000
+                    },
+                    {
+                        "name": "Dan",
+                        "salary": 25000
+                    }
+                ]
+            },
+            {
+                "name": "Som",
+                "salary": 10000,
+                "subemployees": [
+                    {
+                        "name": "Kyle",
+                        "salary": 20000
+                    },
+                    {
+                        "name": "Jon",
+                        "salary": 20000
+                    },
+                    {
+                        "name": "Damian",
+                        "salary": 20000
+                    }
+                ]
+            },
+            {
+                "name": "Vic",
+                "salary": 60000
+            }
+        ]
+    }
+}
